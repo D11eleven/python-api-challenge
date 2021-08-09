@@ -1,4 +1,4 @@
 # python-api-challenge
 Homework 06-Python_APIs
 
-Incremental Save -- Cosmetic changes within directory  
+Incremental Save -- RunThru -- Setting up sections  
