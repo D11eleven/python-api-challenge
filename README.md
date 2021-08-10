@@ -1,5 +1,5 @@
 # python-api-challenge
 Homework 06-Python_APIs
 
-Incremental Save --- Completed Ideal DF ; Cloned to Hotel DF  ... Wrking
+Incremental Save ---   backtracked to WeatherPy to add "Country" to DF  ... Markers Wrking
 
